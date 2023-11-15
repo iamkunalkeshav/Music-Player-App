@@ -15,7 +15,7 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'kunal',
+        displayName: 'LIGGI',
         cover: 'assets/1.jpg',
         artist: 'RITVIZ',
     },
